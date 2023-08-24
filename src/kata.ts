@@ -1,5 +1,5 @@
 export class Kata {
-    someFunction() {
-        return "not implemented";
-    }
+  someFunction (): string {
+    return 'not implemented'
+  }
 }

@@ -1,10 +1,10 @@
-import type {Config} from 'jest';
+import type { Config } from 'jest'
 
 const config: Config = {
-    preset: 'ts-jest',
-    testEnvironment: 'node',
-    collectCoverage: true,
-    verbose: true
-};
+  preset: 'ts-jest',
+  testEnvironment: 'node',
+  collectCoverage: true,
+  verbose: true
+}
 
-export default config;
+export default config
